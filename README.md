@@ -1,11 +1,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%236522CA&lines=Hi+there%2C+I'm+Dmitrii+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-#### I am a beginner backend-developer
+## I am a beginner backend-developer
 
-I am 20 years old.\n
-Now I'm doing a full-fledged study of django. Also, my interests include various bots for social networks that automate the processes I need.\n
-Please do not judge my projects strictly, I study on my own, as I am not sure that universities are able to teach me what employers need.\n
+I am 20 years old.  
+Now I'm doing a full-fledged study of django. Also, my interests include various bots for social networks that automate the processes I need.  
+Please do not judge my projects strictly, I study on my own, as I am not sure that universities are able to teach me what employers need.  
+  
+Skills: `Python` / `Django` / `JS` / `HTML` / `CSS` /
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,4 +19,4 @@ Please do not judge my projects strictly, I study on my own, as I am not sure th
 - ⚡ Fun fact: ...
 -->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/purplebread-git)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/purple.bread/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](vk.com/purple.bread)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20' color='FFFFFFFF'>](https://github.com/purplebread-git)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/purple.bread/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](vk.com/purple.bread)
