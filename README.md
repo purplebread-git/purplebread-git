@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%236522CA&center=true&lines=Hi+there%2C+I'm+Dmitrii+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%236522CA&lines=Hi+there%2C+I'm+Dmitrii+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 #### I am a beginner backend-developer
 
