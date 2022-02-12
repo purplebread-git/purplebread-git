@@ -1,10 +1,8 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFFFF&lines=Hi+there,+I'm+Dmitrii+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%236522CA&center=true&lines=Hi+there%2C+I'm+Dmitrii+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+
 <!--
-**purplebread-git/purplebread-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
