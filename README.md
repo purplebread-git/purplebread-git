@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%236522CA&center=true&lines=Hi+there%2C+I'm+Dmitrii+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+#### I am a beginner backend-developer
 
 <!--
 - 🔭 I’m currently working on ...
@@ -12,3 +13,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/purplebread-git)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/purple.bread/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](vk.com/purple.bread)
