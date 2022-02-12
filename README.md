@@ -3,6 +3,9 @@
 
 #### I am a beginner backend-developer
 
+I am 20 years old.
+Now I'm doing a full-fledged study of django. Also, my interests include various bots for social networks that automate the processes I need.
+Please do not judge my projects strictly, I study on my own, as I am not sure that universities are able to teach me what employers need
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
